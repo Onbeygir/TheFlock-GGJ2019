@@ -1,0 +1,98 @@
+{
+
+  "Title": "Scrap Yard",
+ 
+  "Description": "You could get yourself some scrap by providing the town with other essentials.",
+  
+"Outcomes": 
+[
+    {
+      	"uIResourceType": 
+	[
+        	1,
+		3
+     	],
+      
+	"value": 
+	[
+        	15,
+		-5
+      	],
+      
+	"NextEvent": 8,
+
+      	"OutComeText": "Trade some Food for Scraps"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	1,
+		3
+     	],
+      
+	"value": 
+	[
+        	40,
+		-10
+      	],
+      
+	"NextEvent": 8,
+
+      	"OutComeText": "Trade lots of Food for Scraps"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	1,
+		2
+     	],
+      
+	"value": 
+	[
+        	15,
+		-5
+      	],
+      
+	"NextEvent": 8,
+
+      	"OutComeText": "Trade some Fuel for Scraps"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	1,
+		2
+     	],
+      
+	"value": 
+	[
+        	40,
+		-10
+      	],
+      
+	"NextEvent": 8,
+
+      	"OutComeText": "Trade Lots of Fuel for Scraps"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	
+     	],
+      
+	"value": 
+	[
+        	
+      	],
+      
+	"NextEvent": 7,
+
+      	"OutComeText": "Go Back to the Town Center"
+    }
+]
+
+}

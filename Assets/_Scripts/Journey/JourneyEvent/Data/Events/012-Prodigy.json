@@ -1,0 +1,45 @@
+{
+
+  "Title": "The Prodigy",
+ 
+  "Description": "Not sure of what you see at first, as you approach the figure you realize it's a gigantic organ with a mutant on the keyboard. He smiles at you enthusiastically, and says he's looking for a band to join up with.",
+  
+"Outcomes": 
+[
+    {
+      	"uIResourceType": 
+	[
+        	2,
+		7
+     	],
+      
+	"value": 
+	[
+        	-5,
+		1
+      	],
+      
+	"NextEvent": 0,
+
+      	"OutComeText": "Welcome Him to the Tribe"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+       		
+      	],
+
+      "value": 
+	[
+        	
+      	],
+
+      "NextEvent": 0,
+
+      "OutComeText": "It's too Dangerous"
+    }
+
+]
+
+}

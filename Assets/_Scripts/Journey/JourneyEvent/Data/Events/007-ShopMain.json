@@ -1,0 +1,110 @@
+{
+
+  "Title": "A Safe Haven",
+ 
+  "Description": "Although you'll eventually have to hit the road again, you have come to a place where you can catch your breath and strike a few deals.",
+  
+"Outcomes": 
+[
+    {
+      	"uIResourceType": 
+	[
+        	
+     	],
+      
+	"value": 
+	[
+        	
+      	],
+      
+	"NextEvent": 8,
+
+      	"OutComeText": "Shop for Scraps."
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        
+     	],
+      
+	"value": 
+	[
+        	
+      	],
+      
+	"NextEvent": 9,
+
+      	"OutComeText": "Shop for Fuel"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	
+     	],
+      
+	"value": 
+	[
+        	
+      	],
+      
+	"NextEvent": 10,
+
+      	"OutComeText": "Shop for Food"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	
+     	],
+      
+	"value": 
+	[
+        	
+      	],
+      
+	"NextEvent": 11,
+
+      	"OutComeText": "Look for Volunteers."
+    },
+
+
+    {
+      	"uIResourceType": 
+	[
+        	1,
+			4
+     	],
+      
+	"value": 
+	[
+        	-50,
+			0
+      	],
+      
+	"NextEvent": 7,
+
+      	"OutComeText": "Repair all."
+    },
+
+	
+    {
+      	"uIResourceType": 
+	[
+        	
+     	],
+      
+	"value": 
+	[
+        	
+      	],
+      
+	"NextEvent": 0,
+
+      	"OutComeText": "Leave Town."
+    }
+]
+
+}

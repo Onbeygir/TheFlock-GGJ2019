@@ -1,0 +1,30 @@
+{
+  "Title": "Heyy",
+  "Description": "Yooo",
+  "Outcomes": [
+    {
+      "uIResourceType": [
+        1,
+        2
+      ],
+      "value": [
+        30,
+        50
+      ],
+      "NextEvent": 0,
+      "OutComeText": "Watch out"
+    },
+    {
+      "uIResourceType": [
+        3,
+        2
+      ],
+      "value": [
+        20,
+        10
+      ],
+      "NextEvent": 0,
+      "OutComeText": "Safe!!"
+    }
+  ]
+}

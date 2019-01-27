@@ -1,0 +1,47 @@
+{
+
+  "Title": "Hindsight is 20/20",
+ 
+  "Description": "The man turns out to be criminally insane and robs you at    gunpoint.",
+  
+"Outcomes": 
+[
+    {
+      	"uIResourceType": 
+	[
+        	1,
+		2,
+		3
+     	],
+      
+	"value": 
+	[
+        	-15,
+		-5,
+		-5
+      	],
+      
+	"NextEvent": 0,
+
+      	"OutComeText": "Curse Him"
+    },
+
+	{
+      	"uIResourceType": 
+	[
+        	
+     	],
+      
+	"value": 
+	[
+        	
+      	],
+      
+	"NextEvent": 0,
+
+      	"OutComeText": "You Had Nothing to Lose"
+    }
+
+]
+
+}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 101540dffa46896408f45a160de5c7b7, type: 3}
+  m_Name: Encounter1
+  m_EditorClassIdentifier: 
+  timeUntilEvent: 3
+  Waves:
+  - {fileID: 11400000, guid: c979646481a09414b8f1c7ef7a07befc, type: 2}
+  - {fileID: 11400000, guid: 7fa87b4f7e552104ea20192ceec0ea6b, type: 2}
+  Rewards:
+  - {fileID: 11400000, guid: 0a1740bcfe9edf447ad0d093c3204d35, type: 2}
+  Music: {fileID: 0}

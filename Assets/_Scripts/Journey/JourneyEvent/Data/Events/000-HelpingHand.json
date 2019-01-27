@@ -1,0 +1,65 @@
+{
+
+  "Title": "A Helping Hand",
+ 
+  "Description": "You see a broken down car by the side of the road. The   lonely passenger is offering you some fuel in exchange for scrap for   repairs.",
+  
+"Outcomes": 
+[
+    {
+      	"uIResourceType": 
+	[
+        	1,
+        	2
+     	],
+      
+	"value": 
+	[
+        	25,
+        	-10
+      	],
+      
+	"NextEvent": 0,
+
+      	"OutComeText": "Agree"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+       		
+      	],
+
+      "value": 
+	[
+        	
+      	],
+
+      "NextEvent": 0,
+
+      "OutComeText": "Politely Decline"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+       		1,
+		3,
+		8
+      	],
+
+      "value": 
+	[
+        	15,
+		10,
+		100
+      	],
+
+      "NextEvent": 0,
+
+      "OutComeText": "Forcefully Take His Stash"
+    }
+
+]
+
+}

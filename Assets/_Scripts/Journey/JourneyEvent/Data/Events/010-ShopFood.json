@@ -1,0 +1,98 @@
+{
+
+  "Title": "The Granary",
+ 
+  "Description": "The town has enough food stocked away to trade some for valuables.",
+  
+"Outcomes": 
+[
+    {
+      	"uIResourceType": 
+	[
+        	3,
+		1
+     	],
+      
+	"value": 
+	[
+        	5,
+		-15
+      	],
+      
+	"NextEvent": 10,
+
+      	"OutComeText": "Trade some Scraps for Food"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	3,
+		1
+     	],
+      
+	"value": 
+	[
+        	10,
+		-40
+      	],
+      
+	"NextEvent": 10,
+
+      	"OutComeText": "Trade Lots of Scraps for Food"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	3,
+		2
+     	],
+      
+	"value": 
+	[
+        	5,
+		-5
+      	],
+      
+	"NextEvent": 10,
+
+      	"OutComeText": "Trade some Fuel for Food"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	3,
+		2
+     	],
+      
+	"value": 
+	[
+        	20,
+		-20
+      	],
+      
+	"NextEvent": 10,
+
+      	"OutComeText": "Trade Lots of Fuel for Food"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	
+     	],
+      
+	"value": 
+	[
+        	
+      	],
+      
+	"NextEvent": 7,
+
+      	"OutComeText": "Go Back to the Town Center"
+    }
+]
+
+}

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7959865920169612625
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2068120864442965752}
+  - component: {fileID: 6047421399163149961}
+  m_Layer: 0
+  m_Name: UIManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2068120864442965752
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7959865920169612625}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.1584417, y: 0.2734996, z: -3.459961}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6047421399163149961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7959865920169612625}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6d463f0dd056064aaf142153403da5d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  popUpData:
+  - textAsset: {fileID: 4900000, guid: 95641231ffbf2834eb4450622d8faa2d, type: 3}
+  - textAsset: {fileID: 4900000, guid: d3b59ffc6a1bd4241ab8445d28f03dc5, type: 3}
+  - textAsset: {fileID: 4900000, guid: 6ce47b9e717bd3345834b0cfdf35a0be, type: 3}
+  - textAsset: {fileID: 4900000, guid: 72aa4210c81570947b1bca79804a047b, type: 3}
+  - textAsset: {fileID: 4900000, guid: ff2931a3446a1b54086d954b2ec0c206, type: 3}
+  - textAsset: {fileID: 4900000, guid: fa397a6c412aa40488926bc2e6150a17, type: 3}
+  - textAsset: {fileID: 4900000, guid: 9071a70bbada208418d24db3333ad188, type: 3}
+  - textAsset: {fileID: 4900000, guid: e0410e471750517499bc6e8d2647ac93, type: 3}
+  - textAsset: {fileID: 4900000, guid: 46f63d5b4cd39bd40b7bf2f98d474a47, type: 3}
+  - textAsset: {fileID: 4900000, guid: 05a89d66171b4c4459d24c400b7fdca6, type: 3}
+  - textAsset: {fileID: 4900000, guid: 02356b69d1f4c7f4d929b56b1f3c911a, type: 3}
+  - textAsset: {fileID: 4900000, guid: ce31db1bca9152d4d92912f5fd849574, type: 3}
+  - textAsset: {fileID: 4900000, guid: ab9e470918ab3684f99a0c3147e53288, type: 3}
+  UIPopUp: {fileID: 0}

@@ -1,0 +1,62 @@
+{
+
+  "Title": "Future Generations",
+ 
+  "Description": "You come across a group of youngsters who look like they could help out with repairs.",
+  
+"Outcomes": 
+[
+    {
+      	"uIResourceType": 
+	[
+        	1,
+		3,
+		4
+     	],
+      
+	"value": 
+	[
+        	-10,
+		-10,
+		0
+      	],
+      
+	"NextEvent": 0,
+
+      	"OutComeText": "Help Them Out"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	0
+     	],
+      
+	"value": 
+	[
+        	3
+      	],
+      
+	"NextEvent": 0,
+
+      	"OutComeText": "Tell Them They Can Come With"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	
+     	],
+      
+	"value": 
+	[
+        	
+      	],
+      
+	"NextEvent": 0,
+
+      	"OutComeText": "Ignore Them"
+    }
+]
+
+}

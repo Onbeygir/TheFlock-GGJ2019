@@ -1,0 +1,63 @@
+{
+
+  "Title": "Sad Lad",
+ 
+  "Description": "A triceratops is lying by the side of the road, clearly   injured. He'll die if left on his own for sure, but with a little effort you could patch him up.",
+  
+"Outcomes": 
+[
+    {
+      	"uIResourceType": 
+	[
+        	1,
+        	2,
+		6
+     	],
+      
+	"value": 
+	[
+        	-10,
+        	-30,
+		1
+      	],
+      
+	"NextEvent": 0,
+
+      	"OutComeText": "Heal Him"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+       		
+      	],
+
+      "value": 
+	[
+        	
+      	],
+
+      "NextEvent": 0,
+
+      "OutComeText": "Move Along"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+       		3
+      	],
+
+      "value": 
+	[
+        	15
+      	],
+
+      "NextEvent": 0,
+
+      "OutComeText": "Butcher him for food"
+    }
+
+]
+
+}

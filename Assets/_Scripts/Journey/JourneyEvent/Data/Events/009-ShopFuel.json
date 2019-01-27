@@ -1,0 +1,98 @@
+{
+
+  "Title": "Oil Rig",
+ 
+  "Description": "While not much, the town has some fuel they're willing to part with.",
+  
+"Outcomes": 
+[
+    {
+      	"uIResourceType": 
+	[
+        	2,
+		1
+     	],
+      
+	"value": 
+	[
+        	5,
+		-15
+      	],
+      
+	"NextEvent": 9,
+
+      	"OutComeText": "Trade some Scraps for Fuel"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	2,
+		1
+     	],
+      
+	"value": 
+	[
+        	10,
+		-40
+      	],
+      
+	"NextEvent": 9,
+
+      	"OutComeText": "Trade Lots of Scraps for Fuel"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	2,
+		3
+     	],
+      
+	"value": 
+	[
+        	5,
+		-5
+      	],
+      
+	"NextEvent": 9,
+
+      	"OutComeText": "Trade some Food for Fuel"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	2,
+		3
+     	],
+      
+	"value": 
+	[
+        	20,
+		-20
+      	],
+      
+	"NextEvent": 9,
+
+      	"OutComeText": "Trade Lots of Food for Fuel"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	
+     	],
+      
+	"value": 
+	[
+        	
+      	],
+      
+	"NextEvent": 7,
+
+      	"OutComeText": "Go Back to the Town Center"
+    }
+]
+
+}

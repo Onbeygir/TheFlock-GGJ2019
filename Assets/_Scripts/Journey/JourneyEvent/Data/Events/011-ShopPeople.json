@@ -1,0 +1,96 @@
+{
+
+  "Title": "Town Hall",
+ 
+  "Description": "You might ask around town to see if anyone would like to join up, maybe even bribe a few to do so.",
+  
+"Outcomes": 
+[
+    {
+      	"uIResourceType": 
+	[
+        	0
+     	],
+      
+	"value": 
+	[
+        	4
+      	],
+      
+	"NextEvent": 11,
+
+      	"OutComeText": "Ask Around for Volunteers"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	0,
+		2
+     	],
+      
+	"value": 
+	[
+        	8,
+		-25
+      	],
+      
+	"NextEvent": 11,
+
+      	"OutComeText": "Pay Some with Fuel"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	0,
+		3
+     	],
+      
+	"value": 
+	[
+        	8,
+		-25
+      	],
+      
+	"NextEvent": 11,
+
+      	"OutComeText": "Pay Some with Food"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	3,
+		8
+     	],
+      
+	"value": 
+	[
+        	10,
+		500
+      	],
+      
+	"NextEvent": 0,
+
+      	"OutComeText": "Force a few to Come with You"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	
+     	],
+      
+	"value": 
+	[
+        	
+      	],
+      
+	"NextEvent": 7,
+
+      	"OutComeText": "Go Back to the Town Center"
+    }
+]
+
+}

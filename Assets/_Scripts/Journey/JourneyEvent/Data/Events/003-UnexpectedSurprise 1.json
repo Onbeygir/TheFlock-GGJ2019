@@ -1,0 +1,47 @@
+{
+
+  "Title": "Unexpected Surprise",
+ 
+  "Description": "The man turns out to be very friendly and showers you with     gifts.",
+  
+"Outcomes": 
+[
+    {
+      	"uIResourceType": 
+	[
+        	1,
+		2,
+		3
+     	],
+      
+	"value": 
+	[
+        	15,
+		5,
+		5
+      	],
+      
+	"NextEvent": 0,
+
+      	"OutComeText": "Thank Him"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+        	0
+     	],
+      
+	"value": 
+	[
+        	1
+      	],
+      
+	"NextEvent": 0,
+
+      	"OutComeText": "Ask Him to Join You Instead"
+    }
+
+]
+
+}

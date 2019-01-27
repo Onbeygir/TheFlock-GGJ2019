@@ -1,0 +1,43 @@
+{
+
+  "Title": "Insane in the Membrane",
+ 
+  "Description": "A man, clearly unstable, is frantically signalling you to     stop.",
+  
+"Outcomes": 
+[
+    {
+      	"uIResourceType": 
+	[
+        	
+     	],
+      
+	"value": 
+	[
+        	
+      	],
+      
+	"NextEvent": 3,
+
+      	"OutComeText": "Stop"
+    },
+
+    {
+      	"uIResourceType": 
+	[
+       		
+      	],
+
+      "value": 
+	[
+        	
+      	],
+
+      "NextEvent": 0,
+
+      "OutComeText": "Keep Driving"
+    }
+
+]
+
+}

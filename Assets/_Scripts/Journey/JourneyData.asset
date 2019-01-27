@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ae61550b542d6340bd3afa85bfb5437, type: 3}
+  m_Name: JourneyData
+  m_EditorClassIdentifier: 
+  JourneyPoints:
+  - {fileID: 11400000, guid: 7dbdfcb08eca0ec458cfd5bf2e3500eb, type: 2}
+  - {fileID: 11400000, guid: aaef6e9be19ebd34c905aa24da90f2d6, type: 2}
+  - {fileID: 11400000, guid: 7152cae14d7f394469545739bf6fe28b, type: 2}
+  - {fileID: 11400000, guid: 8a4a031e31e314045bf2c9151921667e, type: 2}
+  - {fileID: 11400000, guid: fc7e8abee14ba39429faedf802ae7712, type: 2}
+  - {fileID: 11400000, guid: d4ec1875fa16437498fa659a6b3db070, type: 2}
+  - {fileID: 11400000, guid: 5f56ad5931af0684eb26da8875d37d87, type: 2}
+  - {fileID: 11400000, guid: 8a4a031e31e314045bf2c9151921667e, type: 2}
+  - {fileID: 11400000, guid: f00a955bc60a243498388f3a97a88f58, type: 2}
+  - {fileID: 11400000, guid: d864f1fc889cc2f4cbeb63a62107fbe5, type: 2}
+  - {fileID: 11400000, guid: 9b49ed58cb618554ca56ad9a014bed6b, type: 2}
